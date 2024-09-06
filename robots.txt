@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hicklinazi.github.io/sitemap.html.gz
+Sitemap: https://hicklinazi.github.io/app/sitemap.html.gz
+Sitemap: https://hicklinazi.github.io/assets/sitemap.html.gz
+Sitemap: https://hicklinazi.github.io/css/sitemap.html.gz
+Sitemap: https://hicklinazi.github.io/includes/sitemap.html.gz
+Sitemap: https://hicklinazi.github.io/item/sitemap.html.gz
+Sitemap: https://hicklinazi.github.io/src/sitemap.html.gz
